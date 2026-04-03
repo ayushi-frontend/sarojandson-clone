@@ -32,10 +32,9 @@ The project is created for learning and practice purposes.
 4. Build for production:
    npm run build
 
-## 🌐 Live Demo
+## 🚀 Live Demo  
 
-(Add your Netlify link here after deployment)
-
+[Click Here to View Project](https://timely-taiyaki-5e248d.netlify.app/)
 ## ⚠️ Disclaimer
 
 This project is made for educational purposes only.  
